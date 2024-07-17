@@ -1,0 +1,30 @@
+
+body,h1,h2,p,ul,li{
+    margin:5;
+    padding: 5;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+h1{
+    color: rgb(209, 59, 14);
+    text-align: center;
+}
+h2{
+    color: aqua;
+}
+p{
+    color: blue;
+}
+body{
+    background-color:aquamarine;
+    font-family: cursive;
+}
+ul{
+    color: aquamarine;
+}
+li{
+    color: yellow;
+}
+text{
+    color: rgb(207,0, 155);
+}
